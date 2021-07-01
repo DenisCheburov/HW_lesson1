@@ -15,10 +15,7 @@ public class main {
 
     public static void randomNumGame() {
         int num = rand.nextInt(10);
-
-
         int attempt = 0;
-
 
         while (attempt < 3) {
             System.out.println("Введите число от 0 до 9 : ");
