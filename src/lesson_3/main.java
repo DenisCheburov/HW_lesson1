@@ -15,7 +15,7 @@ public class main {
 
     public static void randomNumGame() {
         int num = rand.nextInt(10);
-        int count = 1;
+
 
         int attempt = 0;
 
